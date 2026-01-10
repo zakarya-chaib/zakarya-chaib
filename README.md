@@ -10,14 +10,14 @@
 
 <div align="center">
 
-## 👋 About Me
+##  About Me
 
 I'm **Zakarya Chaib**, an **18-year-old Web Developer** from **Morocco 🇲🇦**.  
 A passionate **vibe coder** who enjoys building modern web applications  
 and exploring **AI, automation, and backend systems**.
 
 I focus on writing **clean, scalable code**,  
-and I’m always learning new technologies to level up my skills 🚀
+and I’m always learning new technologies to level up my skills 
 
 ✨ *Always learning. Always building.*
 
@@ -27,7 +27,7 @@ and I’m always learning new technologies to level up my skills 🚀
 
 <div align="center">
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
@@ -52,7 +52,7 @@ and I’m always learning new technologies to level up my skills 🚀
 
 <div align="center">
 
-## 🚀 What I’m Working On
+##  What I’m Working On
 
 🔹 Full-Stack Web Applications  
 🔹 AI & Automation with Python  
