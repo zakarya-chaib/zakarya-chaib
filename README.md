@@ -64,7 +64,7 @@ and I’m always learning new technologies to level up my skills
 
 <div align="center">
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 <p>
   <a href="mailto:zakaryachaib4@gmail.com">
