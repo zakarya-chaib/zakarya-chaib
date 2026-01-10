@@ -62,22 +62,6 @@ and I’m always learning new technologies to level up my skills
 
 <br/>
 
-<div align="center">
 
-##  Let’s Connect
-
-<p>
-  <a href="mailto:zakaryachaib4@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4b4b4b&height=120&section=footer&cshadow=true"/>
