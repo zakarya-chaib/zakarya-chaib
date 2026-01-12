@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4b4b4b&height=120&section=header&cshadow=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4b4b4b&height=180&section=header&cshadow=true"/>
 
 <div align="center">
 
@@ -64,4 +64,4 @@ and I’m always learning new technologies to level up my skills
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4b4b4b&height=120&section=footer&cshadow=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4b4b4b&height=180&section=footer&cshadow=true"/>
