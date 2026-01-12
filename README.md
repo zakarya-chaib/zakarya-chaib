@@ -39,7 +39,6 @@ and I’m always learning new technologies to level up my skills 🚀
 <p>
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=fastapi" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
