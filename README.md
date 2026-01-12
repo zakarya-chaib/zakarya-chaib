@@ -25,7 +25,7 @@ and I’m always learning new technologies to level up my skills 🚀
 
 <div align="center">
 
-## Tech Stack & Skills
+## Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
